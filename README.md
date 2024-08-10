@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @linocardi92 and I'm a 30 years old code beginner
+- 👋 Hi, I’m @linocardi92 and I'm a 31 years old code beginner
 - 👀 I’m interested in art, music and... coding of course
 - 🌱 I’m currently learning Computer Science basics with CS50
 - 💞️ I’m looking to collaborate on ...
