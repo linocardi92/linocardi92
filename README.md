@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @linocardi92 and I'm a 31 years old code beginner
+- 👋 Hi, I’m @linocardi92 and I'm a 32 years old code beginner
 - 👀 I’m interested in art, music and... coding of course
-- 🌱 I’m currently learning Computer Science basics with CS50x (now practicing with Python)
+- 🌱 I completed Harvard CS50x on 2025 and now I'm learning Web dev with http://theodinproject.com
 - 💞️ I’m looking to collaborate on some beginner-friendly Open Source projects
-- I'm writing about my journey on my blog: https://thedevprojectit.blogspot.com/
 - 📫 How to reach me: comment on my blog, here on GitHub, or via email - lino.cardenia@gmail.com
 
 <!---
