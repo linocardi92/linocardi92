@@ -2,7 +2,7 @@
 - 👀 I’m interested in art, music and... coding of course
 - 🌱 I completed Harvard CS50x on 2025 and now I'm learning Web dev with http://theodinproject.com
 - 💞️ I’m looking to collaborate on some beginner-friendly Open Source projects
-- 📫 How to reach me: comment on my blog, here on GitHub, or via email - lino.cardenia@gmail.com
+- 📫 How to reach me: here on GitHub, or via email - lino.cardenia@gmail.com
 
 <!---
 linocardi92/linocardi92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
